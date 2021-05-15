@@ -1,1 +1,2 @@
 add_subdirectory(SeqList)
+include_directories(SeqList)
